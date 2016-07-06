@@ -1,3 +1,9 @@
 name: Charlie Gu Site
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+# Build Settings
+sass:
+  sass_dir: _sass
+kramdown:
+  input: GFM
