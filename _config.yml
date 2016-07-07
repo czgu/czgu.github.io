@@ -5,5 +5,6 @@ permalink: /blog/:year/:month/:day/:title
 # Build Settings
 sass:
   sass_dir: _sass
+include: ['_pages']
 kramdown:
   input: GFM
